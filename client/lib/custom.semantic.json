@@ -1,0 +1,24 @@
+{
+  "definitions": {
+    "site"       : true,
+    "reset"      : true,
+    "container"  : true,
+    "grid"       : true,
+    "header"     : true,
+    "button"     : true,
+    "form"       : true,
+    "checkbox"   : true,
+    "label"      : true,
+    "icon"       : true,
+    "menu"       : true
+  },
+  "themes": {
+    "amazon"     : false,
+    "basic"      : false,
+    "bookish"    : false,
+    "bootstrap3" : false,
+    "chubby"     : false,
+    "classic"    : false,
+    "default"    : true
+  }
+}
